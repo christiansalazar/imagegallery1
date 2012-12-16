@@ -42,7 +42,7 @@ model.
 
 ~~~
 [php]
-$this->widget('ext.imagegallery1.ImageGallery',array(
+$this->widget('ext.imagegallery1.ImageGallery1',array(
 	'images'=>array("<img alt='120' src='bla'>",...more images....),
 	'action'=>array('/site/myaction'),	
 	'modelId'=>'article12',		// $model->primarykey (as an example)
