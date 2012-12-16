@@ -1,0 +1,21 @@
+.img1-holder {
+	overflow: auto;
+}
+.img1-item {
+	overflow: auto;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border: 3px solid gray;
+	padding: 5px;
+	background-color: #ddd;	
+}
+.img1-control img.delete {
+	cursor: pointer;
+	float: right;
+}
+.img1-control img.wait {
+	display: none;
+}
+
